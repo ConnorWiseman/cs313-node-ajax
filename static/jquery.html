@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <title>cs313-node-ajax | jQuery AJAX Example</title>
+        <meta charset="utf-8" />
+
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="/js/jquery.js"></script>
+    </head>
+
+    <body>
+        <h1>jQuery AJAX Example</h1>
+
+        <form id="exform" action="/data" method="GET">
+            <select id="person" name="person">
+                <option value="harry">Harry Potter</option>
+                <option value="draco">Draco Malfoy</option>
+            </select>
+
+            <button>Retrieve data</button>
+        </form>
+
+        <div id="output"></div>
+    </body>
+</html>

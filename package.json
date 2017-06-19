@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/ConnorWiseman/cs313-node-ajax/issues"
   },
-  "homepage": "https://github.com/ConnorWiseman/cs313-node-ajax#readme"
+  "homepage": "https://github.com/ConnorWiseman/cs313-node-ajax#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }

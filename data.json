@@ -1,0 +1,33 @@
+{
+  "harry": {
+    "name": {
+      "first": "Harry",
+      "middle": "James",
+      "last": "Potter"
+    },
+    "wand": {
+      "length": "11 inches",
+      "material": "Holly",
+      "core": "Pheonix Feather"
+    },
+    "house": "Gryffindor"
+  },
+
+  "draco": {
+    "name": {
+      "first": "Draco",
+      "middle": "Lucius",
+      "last": "Malfoy"
+    },
+    "wand": {
+      "length": "10 inches",
+      "material": "Hawthorn",
+      "core": "Unicorn Hair"
+    },
+    "house": "Slytherin"
+  },
+
+  "error": {
+    "message": "No such individual exists in the records of Hogwarts School of Witchcraft and Wizardry."
+  }
+}
