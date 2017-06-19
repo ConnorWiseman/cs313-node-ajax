@@ -1,0 +1,31 @@
+{
+  "name": "cs313-node-ajax",
+  "version": "1.0.0",
+  "description": "A sample Node.js application that demonstrates AJAX in vanilla JavaScript and with the jQuery library.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.0.0",
+    "npm": "5.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorWiseman/cs313-node-ajax.git"
+  },
+  "keywords": [
+    "cs313",
+    "byui",
+    "nodejs",
+    "ajax",
+    "javascript",
+    "jquery"
+  ],
+  "author": "Connor Wiseman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConnorWiseman/cs313-node-ajax/issues"
+  },
+  "homepage": "https://github.com/ConnorWiseman/cs313-node-ajax#readme"
+}
